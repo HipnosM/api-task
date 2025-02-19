@@ -1,0 +1,79 @@
+[
+  {
+    "id": 1,
+    "nome": "Yuji Itadori",
+    "habilidade": "Força sobre-humana e controle da energia amaldiçoada",
+    "altura": "1.73m",
+    "peso": "80kg"
+  },
+  {
+    "id": 2,
+    "nome": "Megumi Fushiguro",
+    "habilidade": "Manipulação das Sombras dos Dez Tipos",
+    "altura": "1.75m",
+    "peso": "68kg"
+  },
+  {
+    "id": 3,
+    "nome": "Nobara Kugisaki",
+    "habilidade": "Feitiço da Palha Amaldiçoada",
+    "altura": "1.60m",
+    "peso": "51kg"
+  },
+  {
+    "id": 4,
+    "nome": "Satoru Gojo",
+    "habilidade": "Ilimitado e Seis Olhos",
+    "altura": "1.90m",
+    "peso": "85kg"
+  },
+  {
+    "id": 5,
+    "nome": "Ryomen Sukuna",
+    "habilidade": "Feitiçaria amaldiçoada e manipulação de chamas",
+    "altura": "Desconhecida",
+    "peso": "Desconhecido"
+  },
+  {
+    "id": 6,
+    "nome": "Maki Zenin",
+    "habilidade": "Habilidades físicas sobre-humanas e uso de armas amaldiçoadas",
+    "altura": "1.70m",
+    "peso": "60kg"
+  },
+  {
+    "id": 7,
+    "nome": "Toge Inumaki",
+    "habilidade": "Feitiço da Fala Amaldiçoada",
+    "altura": "1.64m",
+    "peso": "56kg"
+  },
+  {
+    "id": 8,
+    "nome": "Panda",
+    "habilidade": "Corpo de boneco amaldiçoado e variações de núcleos",
+    "altura": "1.90m",
+    "peso": "120kg"
+  },
+  {
+    "id": 9,
+    "nome": "Kento Nanami",
+    "habilidade": "Proporção 7:3",
+    "altura": "1.84m",
+    "peso": "74kg"
+  },
+  {
+    "id": 10,
+    "nome": "Suguru Geto",
+    "habilidade": "Manipulação de Espíritos Amaldiçoados",
+    "altura": "1.77m",
+    "peso": "68kg"
+  },
+  {
+    "id": 11,
+    "nome": "Hypnos Howell",
+    "habilidade": "Domínio absoluto do infinito",
+    "altura": "1.87",
+    "peso": "62kg"
+  }
+]

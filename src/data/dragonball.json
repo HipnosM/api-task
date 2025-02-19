@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "nome": "Goku",
+        "habilidade": "Ki ilimitado, Super Saiyajin, Kamehameha",
+        "altura": "1.75m",
+        "peso": "62kg"
+    },
+    {
+        "id": 2,
+        "nome": "Vegeta",
+        "habilidade": "Super Saiyajin, Final Flash, Big Bang Attack",
+        "altura": "1.64m",
+        "peso": "56kg"
+    },
+    {
+        "id": 3,
+        "nome": "Gohan",
+        "habilidade": "Super Saiyajin, Explosão de Ki, Masenko",
+        "altura": "1.76m",
+        "peso": "61kg"
+    },
+    {
+        "id": 4,
+        "nome": "Piccolo",
+        "habilidade": "Regeneração, Makankosappo, Técnicas Namekuseijin",
+        "altura": "2.26m",
+        "peso": "116kg"
+    },
+    {
+        "id": 5,
+        "nome": "Trunks",
+        "habilidade": "Super Saiyajin, Uso de Espada, Golpe Ardente",
+        "altura": "1.70m",
+        "peso": "60kg"
+    },
+    {
+        "id": 6,
+        "nome": "Freeza",
+        "habilidade": "Transformações, Rajada de Ki, Death Ball",
+        "altura": "1.58m",
+        "peso": "48kg"
+    },
+    {
+        "id": 7,
+        "nome": "Cell",
+        "habilidade": "Absorção, Kamehameha, Regeneração",
+        "altura": "2.40m",
+        "peso": "210kg"
+    },
+    {
+        "id": 8,
+        "nome": "Majin Buu",
+        "habilidade": "Regeneração, Absorção, Transformação em Chocolate",
+        "altura": "2.20m",
+        "peso": "250kg"
+    },
+    {
+        "id": 9,
+        "nome": "Broly",
+        "habilidade": "Super Saiyajin Lendário, Energia Infinita, Explosão Gigantesca",
+        "altura": "2.74m",
+        "peso": "163kg"
+    },
+    {
+        "id": 10,
+        "nome": "Beerus",
+        "habilidade": "Hakai, Força Divina, Ultra Instinto",
+        "altura": "1.75m",
+        "peso": "33kg"
+    }
+]

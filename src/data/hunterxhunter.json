@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "nome": "Gon Freecss",
+    "habilidade": "Jajanken (Pedra, Papel e Tesoura)",
+    "altura": "1.54m",
+    "peso": "49kg"
+  },
+  {
+    "id": 2,
+    "nome": "Killua Zoldyck",
+    "habilidade": "Eletricidade, Godspeed, Domínio do REM",
+    "altura": "1.58m",
+    "peso": "45kg"
+  },
+  {
+    "id": 3,
+    "nome": "Kurapika",
+    "habilidade": "Correntes da Vingança, Imperium",
+    "altura": "1.71m",
+    "peso": "59kg"
+  },
+  {
+    "id": 4,
+    "nome": "Leorio Paradinight",
+    "habilidade": "Nen de Emissão, Soco Teleportado",
+    "altura": "1.93m",
+    "peso": "85kg"
+  },
+  {
+    "id": 5,
+    "nome": "Hisoka Morow",
+    "habilidade": "Bungee Gum, Textura Enganosa",
+    "altura": "1.87m",
+    "peso": "91kg"
+  },
+  {
+    "id": 6,
+    "nome": "Chrollo Lucilfer",
+    "habilidade": "Skill Hunter (Roubo de Habilidades)",
+    "altura": "1.77m",
+    "peso": "68kg"
+  },
+  {
+    "id": 7,
+    "nome": "Meruem",
+    "habilidade": "Força e inteligência sobre-humanas, Absorção",
+    "altura": "1.69m",
+    "peso": "75kg"
+  },
+  {
+    "id": 8,
+    "nome": "Neferpitou",
+    "habilidade": "Doctor Blythe, Terpsichora",
+    "altura": "1.75m",
+    "peso": "Unknown"
+  },
+  {
+    "id": 9,
+    "nome": "Isaac Netero",
+    "habilidade": "100-Type Guanyin Bodhisattva",
+    "altura": "1.60m",
+    "peso": "58kg"
+  },
+  {
+    "id": 10,
+    "nome": "Shizuku Murasaki",
+    "habilidade": "Blinky (Aspirador de Poeira)",
+    "altura": "1.60m",
+    "peso": "45kg"
+  }
+]
